@@ -1,4 +1,0 @@
-c:\users\geisag\documents\visual studio 2010\Projects\PropertyChangedTest\NameService\bin\NameService.dll
-c:\users\geisag\documents\visual studio 2010\Projects\PropertyChangedTest\NameService\bin\NameService.pdb
-c:\users\geisag\documents\visual studio 2010\Projects\PropertyChangedTest\NameService\obj\Debug\NameService.dll
-c:\users\geisag\documents\visual studio 2010\Projects\PropertyChangedTest\NameService\obj\Debug\NameService.pdb

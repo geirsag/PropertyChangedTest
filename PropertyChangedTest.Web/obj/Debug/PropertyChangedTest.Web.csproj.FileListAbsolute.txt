@@ -1,4 +1,0 @@
-c:\users\geisag\documents\visual studio 2010\Projects\PropertyChangedTest\PropertyChangedTest.Web\bin\PropertyChangedTest.Web.dll
-c:\users\geisag\documents\visual studio 2010\Projects\PropertyChangedTest\PropertyChangedTest.Web\bin\PropertyChangedTest.Web.pdb
-c:\users\geisag\documents\visual studio 2010\Projects\PropertyChangedTest\PropertyChangedTest.Web\obj\Debug\PropertyChangedTest.Web.dll
-c:\users\geisag\documents\visual studio 2010\Projects\PropertyChangedTest\PropertyChangedTest.Web\obj\Debug\PropertyChangedTest.Web.pdb

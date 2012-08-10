@@ -1,8 +1,0 @@
-﻿<xapCache source="C:\Users\geisag\Documents\Visual Studio 2010\Projects\PropertyChangedTest\PropertyChangedTest\Bin\Debug\PropertyChangedTest.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="10.08.2012 14:22:17">
-  <file source="C:\Users\geisag\Documents\Visual Studio 2010\Projects\PropertyChangedTest\PropertyChangedTest\obj\Debug\PropertyChangedTest.dll" archivePath="PropertyChangedTest.dll" lastWriteTime="10.08.2012 14:22:17" />
-  <file source="C:\Users\geisag\Documents\Visual Studio 2010\Projects\PropertyChangedTest\packages\PropertyChanged.Fody.1.25.0.0\Lib\SL\PropertyChanged.dll" archivePath="PropertyChanged.dll" lastWriteTime="10.08.2012 13:30:16" />
-  <file source="c:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Data.Input.dll" archivePath="System.Windows.Controls.Data.Input.dll" lastWriteTime="18.11.2011 16:40:20" />
-  <file source="c:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="18.11.2011 16:40:20" />
-  <file source="C:\Users\geisag\Documents\Visual Studio 2010\Projects\PropertyChangedTest\PropertyChangedTest\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="10.08.2012 13:27:48" />
-  <file source="C:\Users\geisag\Documents\Visual Studio 2010\Projects\PropertyChangedTest\PropertyChangedTest\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="10.08.2012 13:38:56" />
-</xapCache>
